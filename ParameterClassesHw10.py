@@ -5,7 +5,7 @@ import math as math
 import scr.MarkovClasses as MarkovCls
 import scr.RandomVariantGenerators as Random
 import scr.ProbDistParEst as Est
-import HW9.InputDataHw10 as Data
+import InputDataHw10 as Data
 
 
 class HealthStats(Enum):
