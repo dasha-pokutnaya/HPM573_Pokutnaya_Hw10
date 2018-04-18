@@ -1,4 +1,4 @@
-import HW9.InputDataHw10 as Settings
+import InputDataHw10 as Settings
 import scr.FormatFunctions as F
 
 
