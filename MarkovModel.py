@@ -1,8 +1,8 @@
 import scr.SamplePathClasses as PathCls
 import scr.StatisticalClasses as StatCls
 import scr.RandomVariantGenerators as rndClasses
-import HW9.ParameterClasses as P
-import HW9.InputData as Data
+import ParameterClassesHw10 as P
+import InputDataHw10 as Data
 
 # patient class simulates patient, patient monitor follows patient, cohort simulates a cohort,
 #  cohort outcome extracts info from simulation and returns it back
